@@ -1,6 +1,7 @@
 streamlit
 pandas
 webbrowser
-import time
+time
 datetime
 pytz
+requests
